@@ -15,4 +15,3 @@ The source code reflect the following topics covered in CSC 340 - Programming Me
 - Recursion
 - Algorithm and effiency analysis
 - Widely-used searching and sorting algorithms
- 
